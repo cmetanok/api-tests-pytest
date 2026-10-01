@@ -42,7 +42,7 @@ api-tests-pytest/
 
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/<your-username>/api-tests-pytest.git
+git clone https://github.com/cmetanok/api-tests-pytest.git
 cd api-tests-pytest
 
 # 2. Создать виртуальное окружение
@@ -74,6 +74,3 @@ pytest tests/test_posts.py -v
 - Использование фикстур, параметризации и разбиения тестов по модулям.
 - Оформление проекта по общепринятой структуре Python-проекта.
 
-## Автор
-
-**<Your Name>** — [GitHub](https://github.com/<cmetanok>)
